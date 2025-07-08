@@ -1,3 +1,5 @@
+# Script criado para deletar todo documentos do índice ".ds-winlogbeat-9.0.1-2025.06.03-000001" que tenham um campo @timestamp anterior a 5 dias atrás.
+
 import requests
 from datetime import datetime, timedelta
 

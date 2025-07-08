@@ -1,3 +1,5 @@
+# Esse script executa um force merge no índice especificado do Elasticsearch.Reduzir o número de segmentos do índice .ds-winlogbeat-9.0.1-2025.06.03-000001 para apenas 1 segmento, o que pode melhorar o desempenho de leitura e reduzir o uso de disco.
+
 import requests
 
 # Configurações

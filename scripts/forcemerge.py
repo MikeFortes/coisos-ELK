@@ -1,3 +1,5 @@
+# Esse script realiza uma otimização de espaço em disco no Elasticsearch para o índice, usando compressão avançada e merge de segmentos.
+
 import requests
 import time
 
